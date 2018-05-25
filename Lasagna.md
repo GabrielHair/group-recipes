@@ -1,5 +1,4 @@
-# Group recipes
-## The Most Amazing Lasagna Recipe
+# The Most Amazing Lasagna Recipe
 
 Prep time: 1 hour 30 mins
 Cook Time: 50 mins
@@ -10,8 +9,8 @@ Time to Make It: 2 hours 20 mins
 - 1 pound lean ground beef
 - 1 large white onion, minced
 - 5 cloves garlic, crushed
-- 1 (28 ounce can) crushed tomatoes
-- 2 (6 ounce can) tomato paste
+- 1 can crushed tomatoes
+- 2 cans tomato paste
 - 1 (15 oz can) tomato sauce
 - ½ cup chicken broth
 - 2 tablespoons white sugar

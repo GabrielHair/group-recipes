@@ -1,5 +1,6 @@
-# Group recipes
-**Chicken Massaman**
+#Chicken Massaman**
+
+## Ingredients
 
 - Vegetable Oil
 - Curry Paste
