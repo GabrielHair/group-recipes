@@ -8,11 +8,11 @@ Calories - 964
 
 ## Ingredients
 
-1. 24 ounces dry fettuccini pasta 
+1. 680g dry fettuccini pasta 
 2. 1 cup butter
-3. 1 dash garlic
+3. 1 clove garlic
 4. 3/4 cup grated Romano cheese
-5. 3/4 pint heavy cream
+5. 3/4 cup heavy cream
 6. 1/2 cup grated Parmesan cheese
 7. Salt and pepper to taste
 
